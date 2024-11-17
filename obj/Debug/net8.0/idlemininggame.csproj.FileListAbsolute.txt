@@ -1,0 +1,14 @@
+C:\GIT\idlemininggame\bin\Debug\net8.0\idlemininggame.exe
+C:\GIT\idlemininggame\bin\Debug\net8.0\idlemininggame.deps.json
+C:\GIT\idlemininggame\bin\Debug\net8.0\idlemininggame.runtimeconfig.json
+C:\GIT\idlemininggame\bin\Debug\net8.0\idlemininggame.dll
+C:\GIT\idlemininggame\bin\Debug\net8.0\idlemininggame.pdb
+C:\GIT\idlemininggame\obj\Debug\net8.0\idlemininggame.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\idlemininggame\obj\Debug\net8.0\idlemininggame.AssemblyInfoInputs.cache
+C:\GIT\idlemininggame\obj\Debug\net8.0\idlemininggame.AssemblyInfo.cs
+C:\GIT\idlemininggame\obj\Debug\net8.0\idlemininggame.csproj.CoreCompileInputs.cache
+C:\GIT\idlemininggame\obj\Debug\net8.0\idlemininggame.dll
+C:\GIT\idlemininggame\obj\Debug\net8.0\refint\idlemininggame.dll
+C:\GIT\idlemininggame\obj\Debug\net8.0\idlemininggame.pdb
+C:\GIT\idlemininggame\obj\Debug\net8.0\idlemininggame.genruntimeconfig.cache
+C:\GIT\idlemininggame\obj\Debug\net8.0\ref\idlemininggame.dll
